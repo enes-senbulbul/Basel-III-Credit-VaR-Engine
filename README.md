@@ -48,5 +48,6 @@ Basel-III-Credit-Risk-Engine/
 │   ├── parameters.m      # Portfolio limits (EAD, PD, LGD) and settings
 │   └── fmodel_X.m        # Mathematical implementations of Models 1-5
 ├── docs/                 # Documentation
-│   └── Credit_Portfolio_Risk_Analysis_Report.pdf  # Full Technical Report of my Term Project which I kept it
+│   └── Credit_Portfolio_Risk_Analysis_Report.pdf  # Full Technical Report of my Term Project, which I kept
+|   └── "Presentation File"                        # Slides in Turkish
 └── README.md             
